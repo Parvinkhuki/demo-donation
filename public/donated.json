@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
+      "Title": "Clean Water for Children",
+      "Category": "Charity",
+      "Category_BG_Color": "bg-[#0052FF33]",
+      "Card_BG_Color": "bg-[#0052FF26]",
+      "Text_Button_BG_Color": "bg-[#0052FF]",
+      "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+      "Price": 25.99
+    },
+    {
+      "id": 2,
+      "Picture": "https://i.ibb.co/98HNv0C/Education.png",
+      "Title": "Good Education",
+      "Category": "Education",
+      "Category_BG_Color": "bg-[#FF444A33]",
+      "Card_BG_Color": "bg-[#FF444A26]",
+      "Text_Button_BG_Color": "bg-[#FF444A]",
+      "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+      "Price": 50.00
+    },
+    {
+      "id": 3,
+      "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Charity",
+      "Category_BG_Color": "bg-[#79C23F33]",
+      "Card_BG_Color": "bg-[#79C23F26]",
+      "Text_Button_BG_Color": "bg-[#79C23F]",
+      "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+      "Price": 0.00
+    },
+    {
+      "id": 4,
+      "Picture": "https://i.ibb.co/58TZkVK/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_BG_Color": "bg-[#F8714733]",
+      "Card_BG_Color": "bg-[#F8714726]",
+      "Text_Button_BG_Color": "bg-[#F87147]",
+      "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+      "Price": 35.99
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
+        "Title": "Clean Water for Children",
+        "Category": "Charity",
+        "Category_BG_Color": "bg-[#0052FF33]",
+        "Card_BG_Color": "bg-[#0052FF26]",
+        "Text_Button_BG_Color": "bg-[#0052FF]",
+        "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+        "Price": 25.99
+      },
+      {
+        "id": 6,
+        "Picture": "https://i.ibb.co/98HNv0C/Education.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_BG_Color": "bg-[#FF444A33]",
+        "Card_BG_Color": "bg-[#FF444A26]",
+        "Text_Button_BG_Color": "bg-[#FF444A]",
+        "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+        "Price": 50.00
+      },
+      {
+        "id": 7,
+        "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Charity",
+        "Category_BG_Color": "bg-[#79C23F33]",
+        "Card_BG_Color": "bg-[#79C23F26]",
+        "Text_Button_BG_Color": "bg-[#79C23F]",
+        "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+        "Price": 0.00
+      },
+      {
+        "id":8,
+        "Picture": "https://i.ibb.co/58TZkVK/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_BG_Color": "bg-[#F8714733]",
+        "Card_BG_Color": "bg-[#F8714726]",
+        "Text_Button_BG_Color": "bg-[#F87147]",
+        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+        "Price": 35.99
+      },
+      {
+        "id": 9,
+        "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
+        "Title": "Clean Water for Children",
+        "Category": "Charity",
+        "Category_BG_Color": "bg-[#0052FF33]",
+        "Card_BG_Color": "bg-[#0052FF26]",
+        "Text_Button_BG_Color": "bg-[#0052FF]",
+        "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+        "Price": 25.99
+      },
+      {
+        "id":10,
+        "Picture": "https://i.ibb.co/98HNv0C/Education.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_BG_Color": "bg-[#FF444A33]",
+        "Card_BG_Color": "bg-[#FF444A26]",
+        "Text_Button_BG_Color": "bg-[#FF444A]",
+        "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+        "Price": 50.00
+      },
+      {
+        "id": 11,
+        "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Charity",
+        "Category_BG_Color": "bg-[#79C23F33]",
+        "Card_BG_Color": "bg-[#79C23F26]",
+        "Text_Button_BG_Color": "bg-[#79C23F]",
+        "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+        "Price": 0.00
+      },
+      {
+        "id": 12,
+        "Picture": "https://i.ibb.co/58TZkVK/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_BG_Color": "bg-[#F8714733]",
+        "Card_BG_Color": "bg-[#F8714726]",
+        "Text_Button_BG_Color": "bg-[#F87147]",
+        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+        "Price": 35.99
+      }
+  ]
+  
