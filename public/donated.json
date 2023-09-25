@@ -4,10 +4,10 @@
       "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
       "Title": "Clean Water for Children",
       "Category": "Charity",
-      "Category_BG_Color": "bg-[#0052FF33]",
-      "Card_BG_Color": "bg-[#0052FF26]",
-      "Text_Button_BG_Color": "bg-[#0052FF]",
-      "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+      "Category_BG_Color": "#0052FF33",
+      "Card_BG_Color": "#0052FF26",
+      "Text_Button_BG_Color": "#0052FF",
+      "Description": "Clean water for children is a vital global initiative focused on ensuring that every child has access to safe and clean drinking water. This essential effort aims to improve the health and well-being of children worldwide by addressing water-related issues. It involves building and maintaining sustainable water infrastructure, such as wells, water purification systems, and distribution networks, in communities where access to clean water is limited.Clean water initiatives prioritize water quality and hygiene education to reduce waterborne diseases, enhancing child survival rates. They often collaborate with governments, NGOs, and local communities to create long-term solutions. The impact of clean water on children's lives is profound, as it not only prevents illness but also promotes overall development and education, as children can attend school regularly when they are not burdened by water-fetching duties.",
       "Price": 25.99
     },
     {
@@ -15,10 +15,10 @@
       "Picture": "https://i.ibb.co/98HNv0C/Education.png",
       "Title": "Good Education",
       "Category": "Education",
-      "Category_BG_Color": "bg-[#FF444A33]",
-      "Card_BG_Color": "bg-[#FF444A26]",
-      "Text_Button_BG_Color": "bg-[#FF444A]",
-      "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+      "Category_BG_Color": "#FF444A33",
+      "Card_BG_Color": "#FF444A26",
+      "Text_Button_BG_Color": "#FF444A",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": 50.00
     },
     {
@@ -26,10 +26,10 @@
       "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
       "Title": "Used Clothing Drive",
       "Category": "Charity",
-      "Category_BG_Color": "bg-[#79C23F33]",
-      "Card_BG_Color": "bg-[#79C23F26]",
-      "Text_Button_BG_Color": "bg-[#79C23F]",
-      "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+      "Category_BG_Color": "#79C23F33",
+      "Card_BG_Color": "#79C23F26",
+      "Text_Button_BG_Color": "#79C23F",
+      "Description": "collects and distributes donated clothing to aid individuals and communities in need. This initiative offers warmth, protection, and dignity to vulnerable populations, including the homeless, low-income families, and disaster survivors. By recycling and reusing clothing, it promotes sustainability and reduces environmental waste. Community engagement, volunteer efforts, and local organizations play crucial roles in its success. Clothes for Charity raises awareness about giving back and provides emergency relief during crises. Some organizations extend their reach globally, aiding impoverished regions and disaster-stricken areas. Overall, it's a tangible way to make a compassionate and sustainable impact in the world.",
       "Price": 0.00
     },
     {
@@ -37,10 +37,10 @@
       "Picture": "https://i.ibb.co/58TZkVK/Food.png",
       "Title": "Better Food for Everyone",
       "Category": "Food",
-      "Category_BG_Color": "bg-[#F8714733]",
-      "Card_BG_Color": "bg-[#F8714726]",
-      "Text_Button_BG_Color": "bg-[#F87147]",
-      "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+      "Category_BG_Color": "#F8714733",
+      "Card_BG_Color": "#F8714726",
+      "Text_Button_BG_Color": "#F87147",
+      "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives. Better food aims to make nutritious options available to everyone, especially in underserved or disadvantaged communities. Efforts include increasing access to fresh produce, reducing food deserts, and supporting food assistance programs.",
       "Price": 35.99
     },
     {
@@ -48,10 +48,10 @@
         "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
         "Title": "Clean Water for Children",
         "Category": "Charity",
-        "Category_BG_Color": "bg-[#0052FF33]",
-        "Card_BG_Color": "bg-[#0052FF26]",
-        "Text_Button_BG_Color": "bg-[#0052FF]",
-        "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+        "Category_BG_Color": "#0052FF33",
+        "Card_BG_Color": "#0052FF26",
+        "Text_Button_BG_Color": "#0052FF",
+        "Description": "Clean water for children is a vital global initiative focused on ensuring that every child has access to safe and clean drinking water. This essential effort aims to improve the health and well-being of children worldwide by addressing water-related issues. It involves building and maintaining sustainable water infrastructure, such as wells, water purification systems, and distribution networks, in communities where access to clean water is limited.Clean water initiatives prioritize water quality and hygiene education to reduce waterborne diseases, enhancing child survival rates. They often collaborate with governments, NGOs, and local communities to create long-term solutions. The impact of clean water on children's lives is profound, as it not only prevents illness but also promotes overall development and education, as children can attend school regularly when they are not burdened by water-fetching duties.",
         "Price": 25.99
       },
       {
@@ -59,10 +59,10 @@
         "Picture": "https://i.ibb.co/98HNv0C/Education.png",
         "Title": "Good Education",
         "Category": "Education",
-        "Category_BG_Color": "bg-[#FF444A33]",
-        "Card_BG_Color": "bg-[#FF444A26]",
-        "Text_Button_BG_Color": "bg-[#FF444A]",
-        "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+        "Category_BG_Color": "#FF444A33",
+        "Card_BG_Color": "#FF444A26",
+        "Text_Button_BG_Color": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "Price": 50.00
       },
       {
@@ -70,10 +70,10 @@
         "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Charity",
-        "Category_BG_Color": "bg-[#79C23F33]",
-        "Card_BG_Color": "bg-[#79C23F26]",
-        "Text_Button_BG_Color": "bg-[#79C23F]",
-        "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+        "Category_BG_Color": "#79C23F33",
+        "Card_BG_Color": "#79C23F26",
+        "Text_Button_BG_Color": "#79C23F",
+        "Description": "collects and distributes donated clothing to aid individuals and communities in need. This initiative offers warmth, protection, and dignity to vulnerable populations, including the homeless, low-income families, and disaster survivors. By recycling and reusing clothing, it promotes sustainability and reduces environmental waste. Community engagement, volunteer efforts, and local organizations play crucial roles in its success. Clothes for Charity raises awareness about giving back and provides emergency relief during crises. Some organizations extend their reach globally, aiding impoverished regions and disaster-stricken areas. Overall, it's a tangible way to make a compassionate and sustainable impact in the world.",
         "Price": 0.00
       },
       {
@@ -81,10 +81,10 @@
         "Picture": "https://i.ibb.co/58TZkVK/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
-        "Category_BG_Color": "bg-[#F8714733]",
-        "Card_BG_Color": "bg-[#F8714726]",
-        "Text_Button_BG_Color": "bg-[#F87147]",
-        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+        "Category_BG_Color": "#F8714733",
+        "Card_BG_Color": "#F8714726",
+        "Text_Button_BG_Color": "#F87147",
+        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives. Better food aims to make nutritious options available to everyone, especially in underserved or disadvantaged communities. Efforts include increasing access to fresh produce, reducing food deserts, and supporting food assistance programs.",
         "Price": 35.99
       },
       {
@@ -92,10 +92,10 @@
         "Picture": "https://i.ibb.co/R2MdTfV/Health.png",
         "Title": "Clean Water for Children",
         "Category": "Charity",
-        "Category_BG_Color": "bg-[#0052FF33]",
-        "Card_BG_Color": "bg-[#0052FF26]",
-        "Text_Button_BG_Color": "bg-[#0052FF]",
-        "Description": "Help provide clean and safe drinking water for children in need. Your contribution can make a significant impact in ensuring a healthier and brighter future for young lives.",
+        "Category_BG_Color": "#0052FF33",
+        "Card_BG_Color": "#0052FF26",
+        "Text_Button_BG_Color": "#0052FF",
+        "Description": "Clean water for children is a vital global initiative focused on ensuring that every child has access to safe and clean drinking water. This essential effort aims to improve the health and well-being of children worldwide by addressing water-related issues. It involves building and maintaining sustainable water infrastructure, such as wells, water purification systems, and distribution networks, in communities where access to clean water is limited.Clean water initiatives prioritize water quality and hygiene education to reduce waterborne diseases, enhancing child survival rates. They often collaborate with governments, NGOs, and local communities to create long-term solutions. The impact of clean water on children's lives is profound, as it not only prevents illness but also promotes overall development and education, as children can attend school regularly when they are not burdened by water-fetching duties.",
         "Price": 25.99
       },
       {
@@ -103,10 +103,10 @@
         "Picture": "https://i.ibb.co/98HNv0C/Education.png",
         "Title": "Good Education",
         "Category": "Education",
-        "Category_BG_Color": "bg-[#FF444A33]",
-        "Card_BG_Color": "bg-[#FF444A26]",
-        "Text_Button_BG_Color": "bg-[#FF444A]",
-        "Description": "Support educational initiatives to provide quality education to underprivileged students. Education is the key to breaking the cycle of poverty and empowering the next generation.",
+        "Category_BG_Color": "#FF444A33",
+        "Card_BG_Color": "#FF444A26",
+        "Text_Button_BG_Color": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "Price": 50.00
       },
       {
@@ -114,10 +114,10 @@
         "Picture": "https://i.ibb.co/sbVVLqM/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Charity",
-        "Category_BG_Color": "bg-[#79C23F33]",
-        "Card_BG_Color": "bg-[#79C23F26]",
-        "Text_Button_BG_Color": "bg-[#79C23F]",
-        "Description": "Donate gently used clothing to help those in need and reduce waste. Your contributions can provide warmth and comfort to individuals facing challenging circumstances.",
+        "Category_BG_Color": "#79C23F33",
+        "Card_BG_Color": "#79C23F26",
+        "Text_Button_BG_Color": "#79C23F",
+        "Description": "collects and distributes donated clothing to aid individuals and communities in need. This initiative offers warmth, protection, and dignity to vulnerable populations, including the homeless, low-income families, and disaster survivors. By recycling and reusing clothing, it promotes sustainability and reduces environmental waste. Community engagement, volunteer efforts, and local organizations play crucial roles in its success. Clothes for Charity raises awareness about giving back and provides emergency relief during crises. Some organizations extend their reach globally, aiding impoverished regions and disaster-stricken areas. Overall, it's a tangible way to make a compassionate and sustainable impact in the world.",
         "Price": 0.00
       },
       {
@@ -125,10 +125,10 @@
         "Picture": "https://i.ibb.co/58TZkVK/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
-        "Category_BG_Color": "bg-[#F8714733]",
-        "Card_BG_Color": "bg-[#F8714726]",
-        "Text_Button_BG_Color": "bg-[#F87147]",
-        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives.",
+        "Category_BG_Color": "#F8714733",
+        "Card_BG_Color": "#F8714726",
+        "Text_Button_BG_Color": "#F87147",
+        "Description": "Support programs that aim to provide better food options for everyone, especially the less fortunate. Access to nutritious food is a fundamental right that can transform lives. Better food aims to make nutritious options available to everyone, especially in underserved or disadvantaged communities. Efforts include increasing access to fresh produce, reducing food deserts, and supporting food assistance programs.",
         "Price": 35.99
       }
   ]

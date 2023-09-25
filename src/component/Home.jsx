@@ -1,14 +1,18 @@
+
 import Banner from "./Banner";
+import Category from "./Category";
 import Detail from "./Detail";
 
 
 
+
 const Home = () => {
+  
     return (
         <div>
             <Banner></Banner>
-            <Detail></Detail>
-
+            <Category></Category>
+        
         </div>
     );
 };
