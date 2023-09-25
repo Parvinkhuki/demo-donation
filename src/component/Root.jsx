@@ -1,6 +1,6 @@
 import { Outlet, useNavigation } from "react-router-dom";
 import Nav from "./Nav";
-
+import { ToastContainer } from 'react-toastify'
 
 const Root = () => {
     const navigation=useNavigation()
@@ -13,7 +13,9 @@ const Root = () => {
                 <p className="text-3xl text-center">loading........</p>: 
                <Outlet></Outlet>
             }</div>
+            <ToastContainer />
         </div>
+        
     );
 };
 

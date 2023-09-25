@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { getStoredDonatedApplication } from "./function";
 import { useLoaderData } from "react-router-dom";
 import DonationDetails from "./DonationDetails"
+import Statices from "./Statices";
 
 
 const Donation = () => {
@@ -34,7 +35,7 @@ const Donation = () => {
             console.log(donatitons)
         }
     }, [danotions])
-   
+   console.log(displayDonatitons.length)
    
     return (
         <div>
@@ -45,13 +46,13 @@ const Donation = () => {
                     )
                 }
              </div>
-             <div className={displayDonatitons.length === 4 && 'hidden' || dataLength===displayDonatitons.length && 'hidden'}>
+             <div className={displayDonatitons.length <= 4? 'hidden':''|| dataLength===displayDonatitons.length? 'hidden':''}>
               <div className="w-full flex mx-auto justify-center my-7">
               <button className="btn bg-green-500 " onClick={hendleShowBttn}>show All </button>
               </div>
 
              </div>
-
+{/* <Statices className="hidden" displayDonatitonss={displayDonatitons.length}></Statices> */}
            
        </div>
     );

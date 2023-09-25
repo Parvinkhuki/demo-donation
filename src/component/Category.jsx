@@ -12,7 +12,8 @@ const Category = () => {
         
     
         },[categorys])
-    console.log(categorys)
+        
+   
     return (
         <div>
               <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8 my-20 max-w-screen-2xl mx-auto p-5">

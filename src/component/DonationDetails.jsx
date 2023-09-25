@@ -16,6 +16,16 @@ const DonationDetails = ({donate}) => {
       };
       const cardStyle = {
         backgroundColor: Card_BG_Color,}
+        
+
+        
+
+
+
+
+
+
+
     return (
         <div className="grid grid-cols-3 shadow-2xl my-11  mx-7 " style={cardStyle}>
          <div><img className="h-full" src={Picture} alt="" /></div>
