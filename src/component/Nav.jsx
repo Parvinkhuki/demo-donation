@@ -3,7 +3,7 @@ import Logo from '../assets/image/Logo.png'
 import { AiOutlineMenu,AiFillCloseCircle } from 'react-icons/ai';
 import { useState } from "react";
 const Nav = () => {
-    const [open ,setOpen]=useState(close)
+    const [open ,setOpen]=useState()
     const style=
     ({ isActive}) => {
         return {
@@ -24,7 +24,7 @@ const Nav = () => {
     <a ><img src={Logo} alt="" /></a>
   </div>
   <div >
-  <div className="md:hidden text-2xl text-right" onClick={()=>setOpen(!open)}>
+  <div className="md:hidden text-2xl text-right" onClick={()=>setOpen(!true)}>
          {
         open===true?<AiFillCloseCircle/>:<AiOutlineMenu/>
          }
