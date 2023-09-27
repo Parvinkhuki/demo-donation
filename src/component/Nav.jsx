@@ -24,7 +24,7 @@ const Nav = () => {
     <a ><img src={Logo} alt="" /></a>
   </div>
   <div >
-  <div className="md:hidden text-2xl text-right" onClick={()=>setOpen(!true)}>
+  <div className="md:hidden text-2xl text-right" onClick={()=>setOpen(true)}>
          {
         open===true?<AiFillCloseCircle/>:<AiOutlineMenu/>
          }
