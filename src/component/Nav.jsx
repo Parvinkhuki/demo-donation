@@ -24,7 +24,7 @@ const Nav = () => {
     <a ><img src={Logo} alt="" /></a>
   </div>
   <div >
-    <ul className="text-center md:static md:flex md:items-center md:justify-center text-xl lg:gap-10 md:gap-3 lg:text-2xl font-bold">
+    <ul className="text-center flex items-center justify-center text-xl lg:gap-10 gap-3 lg:text-2xl font-bold">
     
     <li> <NavLink to={'/'} style={style}>HOME</NavLink></li>
       <li> <NavLink to={'/donations'} style={style}>DONATION</NavLink></li>
