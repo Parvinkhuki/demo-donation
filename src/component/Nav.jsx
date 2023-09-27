@@ -26,7 +26,7 @@ const Nav = () => {
   <div >
   <div className="md:hidden text-2xl text-right" onClick={()=>setOpen(true)}>
          {
-        open===true?<AiFillCloseCircle/>:<AiOutlineMenu/>
+        open===true?<div onClick={()=>setOpen(false)} ><AiFillCloseCircle /></div>:<AiOutlineMenu/>
          }
         </div>
     <ul className={`absolute md:static md:flex md:items-center md:justify-center text-xl lg:gap-10 md:gap-3 lg:text-2xl md:bg-transparent font-bold p-4 border-orange-500 border-1 ${open? 'top-20 left-60':'-top-72'}  bg-white  rounded-xl`}>
